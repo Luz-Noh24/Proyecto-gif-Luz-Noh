@@ -1,0 +1,9 @@
+{
+  "name": "proyec",
+  "version": "1.0.0",
+  "description": "prueba",
+  "main": "app.js",
+  "repository": "https://github.com/Luz-Noh24/Proyecto-gif-Luz-Noh/tree/master/src",
+  "author": "LuzNoh",
+  "license": "MIT"
+}
